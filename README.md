@@ -13,7 +13,7 @@ RockyTrade exchange tools and docs.
     url : https://rockytrade.net/api-v0.php?method=markets
   return: status
   - "success" on success
-  - "error" om error
+  - "error" on error
 
 Sample output:
 ```js
