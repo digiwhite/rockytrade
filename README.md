@@ -1,4 +1,4 @@
-rockytrade
+RockyTrade
 ==========
 
 RockyTrade exchange tools and docs.
