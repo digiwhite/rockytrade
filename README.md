@@ -4,10 +4,11 @@ RockyTrade
 RockyTrade exchange tools and docs.
 
  RockyTrade public API
+ 
  The API is under development, this is just a a draft. 
  All usual methods will be added.
  
- - Markets data
+ Markets data
  
     url : https://rockytrade.net/api-v0.php?method=markets
   return: status
@@ -15,7 +16,7 @@ RockyTrade exchange tools and docs.
   - "error" om error
 
 Sample output:
-```
+```js
 {
   "status": "success",
   "results": [
