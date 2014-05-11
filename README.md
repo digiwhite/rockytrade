@@ -4,6 +4,8 @@ rockytrade
 RockyTrade exchange tools and docs.
 
  RockyTrade public API
+ The API is under development, this is just a a draft. 
+ All usual methods will be added.
  
  - Markets data
  
